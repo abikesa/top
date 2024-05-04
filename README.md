@@ -1,6 +1,6 @@
 > $\text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i$
 
-![](https://github.com/jhustata/basic/raw/main/frontier.png)  
+![](https://github.com/abikesa/url/raw/main/titan_olympian_primogenei.png) 
 
  
                                         1. Root
